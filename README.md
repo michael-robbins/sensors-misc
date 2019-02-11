@@ -13,3 +13,9 @@ adafruit_stemma_soil_sensor_i2c/
   This provides a native interface to reading values from the sensors on the seesaw chip
 * read_library.py
   This provides an example of using Adafruits libraries to read values from the sensors on the seesaw chip
+
+## Resources I used to write the above:
+* https://learn.adafruit.com/adafruit-seesaw-atsamd09-breakout?view=all
+* https://pypi.org/project/smbus2/
+* https://github.com/adafruit/Adafruit_CircuitPython_seesaw/blob/master/adafruit_seesaw/seesaw.py
+* https://github.com/adafruit/Adafruit_CircuitPython_seesaw/blob/master/examples/soil_simpletest.py
